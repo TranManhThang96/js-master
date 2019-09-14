@@ -26,6 +26,7 @@ To create a development build:
 npm run dev
 ```
 
+To create a development watch:
 ```sh
 install webpack-dev-server
 npm install --save-dev webpack-dev-server
