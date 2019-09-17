@@ -44,7 +44,7 @@ a.forEach(function(v) {
 //         this.fives.push(v)
 // })
 
-//es5 có 3 cách để sử dụng this trong function
+// es5 có 3 cách để sử dụng this trong function
 //  variant 1: gán self = this.
 // var self = this;
 // this.nums.forEach(function (v) {
