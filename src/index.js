@@ -1,1 +1,1 @@
-import './es6/destructuring_assignment'
+import './es6/reflection'
